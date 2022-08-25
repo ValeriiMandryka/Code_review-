@@ -1,1 +1,1 @@
-# Code_review-Cypress-allure-of-[AZANIR-project](https://github.com/AZANIR/cypressAllure.git)
+# Code_review[AZANIR-Cypress-allure-project](https://github.com/AZANIR/cypressAllure.git)
